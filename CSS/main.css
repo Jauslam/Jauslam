@@ -1,12 +1,18 @@
 body {
     font-family: 'Arial', sans-serif;
-    background-color: #f4f4f4;
+    background-color: #ecf0f1; /* Light gray-blue background color */
     margin: 0;
     padding: 20px;
+    color: #333;
+}
+
+h1 {
+    color: #3498db; /* Blue color for h1 headings */
+    margin-bottom: 20px;
 }
 
 h2 {
-    color: #333;
+    color: #3498db; /* Blue color for h2 headings */
 }
 
 table {
@@ -16,18 +22,20 @@ table {
 }
 
 th, td {
-    border: 1px solid #dddddd;
+    border: 1px solid #3498db; /* Blue border for table cells */
     text-align: left;
     padding: 8px;
 }
 
 th {
-    background-color: #f2f2f2;
+    background-color: #2980b9; /* Darker blue for table header background */
+    color: #fff; /* White text for table header */
 }
 
 td img {
     height: 100px;
     display: block;
+    border-radius: 5px; /* Optional: Add rounded corners to images */
 }
 
 td img:hover {
@@ -36,7 +44,7 @@ td img:hover {
 
 a {
     text-decoration: none;
-    color: #0066cc;
+    color: #3498db; /* Blue color for links */
 }
 
 a:hover {

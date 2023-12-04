@@ -1,3 +1,32 @@
+:root
+{
+    color: #333;
+    background-color: #ecf0f1;
+}
+title
+{
+  color: #004b7d;
+  font-size: 48pt;
+  text-decoration: underline;
+  text-align: center;
+}
+ul
+{
+    text-align: center;
+}
+li
+{
+    display: inline;
+    margin-left: 3vw;
+    margin-right: 3vw;
+}
+
+img
+{
+    margin: auto;
+    display: block;
+}
+
 body {
     font-family: 'Arial', sans-serif;
     background-color: #ecf0f1; /* Light gray-blue background color */
@@ -49,4 +78,9 @@ a {
 
 a:hover {
     text-decoration: underline;
+}
+.footertext  {
+    display: block;
+    margin-top: 200px;
+    text-align: center;
 }

@@ -40,11 +40,9 @@ body {
 
 h1 {
     color: #004b7d;
-    font-size: 48pt;
-    text-decoration: underline;
+    font-size: 30pt;
     text-align: center;
     margin-bottom: 20px;
-    text-align: center;
 }
 
 h2 {
@@ -66,14 +64,14 @@ table {
 }
 
 th, td {
-    border: 1px solid #3498db; /* Blue border for table cells */
+    border: 1px solid #3498db; 
     text-align: left;
     padding: 8px;
 }
 
 th {
     background-color: #2980b9; 
-    color: #fff; 
+    color: #333; 
 }
 
 td img {

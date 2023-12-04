@@ -10,18 +10,14 @@ title
     text-align: center;
     margin-bottom: 20px;
 }
-ul {
-    display: inline;
-    margin-left: 3vw;
-    margin-right: 3vw;
-    text-align: left;
+uul {
+    list-style-type: disc; 
+    margin: 20px 0; 
+    padding-left: 20px; 
 }
-li
-{
-    display: inline;
-    margin-left: 3vw;
-    margin-right: 3vw;
-    text-align: left;
+
+li {
+    margin-bottom: 8px; 
 }
 
 img

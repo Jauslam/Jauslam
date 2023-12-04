@@ -19,6 +19,7 @@ li
     display: inline;
     margin-left: 3vw;
     margin-right: 3vw;
+    text-align: center;
 }
 
 img
@@ -29,19 +30,33 @@ img
 
 body {
     font-family: 'Arial', sans-serif;
-    background-color: #ecf0f1; /* Light gray-blue background color */
+    background-color: #ecf0f1; 
     margin: 0;
     padding: 20px;
     color: #333;
+    font-size: 14pt;
+    text-align: center;
 }
 
 h1 {
-    color: #3498db; /* Blue color for h1 headings */
+    color: #004b7d;
+    font-size: 48pt;
+    text-decoration: underline;
+    text-align: center;
     margin-bottom: 20px;
+    text-align: center;
 }
 
 h2 {
-    color: #3498db; /* Blue color for h2 headings */
+    color: #3498db; 
+    font-size: 24pt;
+    text-align: center;
+}
+
+h3 {
+    color: #0083db; 
+    font-size: 14pt;
+    text-align: center;
 }
 
 table {
@@ -57,14 +72,14 @@ th, td {
 }
 
 th {
-    background-color: #2980b9; /* Darker blue for table header background */
-    color: #fff; /* White text for table header */
+    background-color: #2980b9; 
+    color: #fff; 
 }
 
 td img {
     height: 100px;
     display: block;
-    border-radius: 5px; /* Optional: Add rounded corners to images */
+    border-radius: 5px; 
 }
 
 td img:hover {
@@ -73,7 +88,7 @@ td img:hover {
 
 a {
     text-decoration: none;
-    color: #3498db; /* Blue color for links */
+    color: #3498db; 
 }
 
 a:hover {

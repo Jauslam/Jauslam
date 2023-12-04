@@ -28,6 +28,16 @@ img
     display: block;
     border-radius: 5px; 
 }
+button {
+    background:    #0357a3;
+    border-radius: 11px;
+    box-shadow:    4px 4px #999999;
+    padding:       20px 45px;
+    color:         #3e9df5;
+    display:       inline-block;
+    font:          normal bold 26px/1 "Open Sans", sans-serif;
+    text-align:    center;
+}
 
 body {
     font-family: 'Arial', sans-serif;

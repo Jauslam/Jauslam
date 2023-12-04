@@ -29,11 +29,11 @@ img
     border-radius: 5px; 
 }
 button {
-    background:    #0357a3;
+    background:    #3498db;
     border-radius: 11px;
     box-shadow:    4px 4px #999999;
     padding:       20px 45px;
-    color:         #3e9df5;
+    color:         #ecf0f1;
     display:       inline-block;
     font:          normal bold 26px/1 "Open Sans", sans-serif;
     text-align:    center;

@@ -14,12 +14,8 @@ title
 
 ul {
     list-style-type: disc; 
-    margin: 20px 0; 
+    margin: 20px; 
     padding-left: 20px; 
-}
-
-li {
-    margin-bottom: 8px; 
 }
 
 img

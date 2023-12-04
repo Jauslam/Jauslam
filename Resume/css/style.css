@@ -8,7 +8,6 @@ title
 {
     color: #3498db;
     font-size: 24pt;
-    text-align: center;
     margin-bottom: 20px;
 }
 
@@ -16,7 +15,7 @@ ul {
     list-style-type: disc; 
     margin: 20px; 
     padding-left: 20px; 
-    text-align: center;
+    
 }
 
 img
@@ -40,31 +39,33 @@ p {
     margin: 0;
     color: #333;
     font-size: 14pt;
-    text-align: center;
+    
 }
 
 h1 {
     color: #3498db; 
     text-decoration: underline;
     font-size: 24pt;
-    text-align: center;
+    
     margin-bottom: 20px;
 }
 
 h2 {
     color: #2280be; 
     font-size: 20pt;
-    text-align: center;
+   
 }
 
 h3 {
     color: #145e90; 
     font-size: 14pt;
-    text-align: center;
+    
 }
 
 img {
-    align-items: left;
+    margin: auto;
+    display: block;
+    border-radius: 5px; 
 }
 
 a {
@@ -79,9 +80,7 @@ section
 a:hover {
     text-decoration: underline;
 }
-div {
-    align-content: center;
-}
+
 .footertext  {
     display: block;
     margin-top: 200px;

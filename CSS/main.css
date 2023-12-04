@@ -5,8 +5,8 @@
 }
 title
 {
-    color: #033252;
-    font-size: 30pt;
+    color: #3498db;
+    font-size: 24pt;
     text-align: center;
     margin-bottom: 20px;
 }
@@ -39,20 +39,20 @@ body {
 }
 
 h1 {
-    color: #004b7d;
-    font-size: 30pt;
+    color: #3498db; 
+    font-size: 24pt;
     text-align: center;
     margin-bottom: 20px;
 }
 
 h2 {
-    color: #3498db; 
-    font-size: 24pt;
+    color: #2280be; 
+    font-size: 20pt;
     text-align: center;
 }
 
 h3 {
-    color: #0083db; 
+    color: #145e90; 
     font-size: 14pt;
     text-align: center;
 }

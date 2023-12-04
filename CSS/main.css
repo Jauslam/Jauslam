@@ -93,6 +93,9 @@ a {
 a:hover {
     text-decoration: underline;
 }
+div {
+    align-content: center;
+}
 .footertext  {
     display: block;
     margin-top: 200px;
